@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**kej511/kej511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm kej511 👋
 
-Here are some ideas to get you started:
+I'm a passionate data science enthusiast exploring the world of Python and machine learning. I love solving problems and making sense of data to drive actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, Pandas, NumPy
+- Machine Learning (scikit-learn, TensorFlow)
+- Data Visualization (Matplotlib, Seaborn)
+- SQL and Databases
+
+## Projects
+- [Project Name](link-to-project)
+- [Another Project](link-to-project)
+
+## Let's Connect
+- LinkedIn: [your-linkedin](link)
+- Twitter: [@yourhandle](link)
